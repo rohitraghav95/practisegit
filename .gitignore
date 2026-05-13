@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+venv/ # suppose maine ye yaha add kardia
+myenv
 # C extensions
 *.so
 
